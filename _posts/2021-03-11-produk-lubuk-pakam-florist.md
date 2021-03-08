@@ -68,5 +68,5 @@ Untuk model bentuk rangkaian bunga segar di toko bunga lubuk pakam asry florist,
 7. bunga krans.
 
 Untuk dukungan silahkan lihat di:
-[Toko Bunga Lubuk Pakam](https://www.bungabuket.com/toko-bunga-lubuk-pakam/)
+![Toko Bunga Lubuk Pakam](https://www.bungabuket.com/toko-bunga-lubuk-pakam/)
 Salam dan Terimakasih.
