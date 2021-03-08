@@ -4,7 +4,7 @@ title: "CARA PESAN PRODUK LUBUK PAKAM FLORIST"
 tagline: Cara Pesan Produk Bunga Lubuk Pakam Florist 081396353338
 description: Kirim Bunga Papan dan Bunga Mawar Buket di Lubuk Pakam kini semakin mudah dan simpel karena hadirnya salah satu florist lubuk pakam terbaik.
 tags: [tokobungalubukpakam]
-image: /assets/img/floristdilubukpakam.jpg
+image: /image/tokobungalubukpakam.jpg
 author: tokobungalubukpakam
 toc: true
 permalink: /:title.html
