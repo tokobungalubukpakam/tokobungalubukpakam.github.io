@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "PAPAN BUNGA BATAM"
-tagline: Kirim Papan Bunga Batam 081396353338
-description: Kirim Bunga Papan dan Bunga Mawar Buket di Batam kini semakin mudah dan simpel karena hadirnya salah satu florist batam terbaik.
-tags: [tokobungabatam]
-image: /image/tokobungabatam.jpg
-author: tokobungadibatam
+title: "PAPAN BUNGA LUBUK PAKAM"
+tagline: Kirim Papan Bunga Lubuk Pakam 081396353338
+description: Kirim Bunga Papan dan Bunga Mawar Buket di Lubuk Pakam kini semakin mudah dan simpel karena hadirnya salah satu florist lubuk pakam terbaik.
+tags: [tokobungalubukpakam]
+image: /image/tokobungalubukpakam.jpg
+author: tokobungalubukpakam
 toc: true
 permalink: /:title.html
 galleries:
@@ -27,16 +27,16 @@ galleries:
 comments: true
 ---
 
-## PAPAN BUNGA BATAM PERNIKAHAN
-Papan bunga di batam untuk pernikahan ukuran standar:
+## PAPAN BUNGA LUBUK PAKAM PERNIKAHAN
+Papan bunga di lubuk pakam untuk pernikahan ukuran standar:
 ukuran: 2,5 meter x 2 meter (panjang x lebar)
 
-### HARGA PAPAN BUNGA BATAM STANDAR PERNIKAHAN
+### HARGA PAPAN BUNGA LUBUK PAKAM STANDAR PERNIKAHAN
 Untuk perincian harga papan bunga pernikahan ukuran standar bisa disesuaikan dengan budget dari konsumen.
 Dan tentunya juga menyesuaikan dengan jangkauan dari alamat yang akan dituju, apakah jauh atau dekat.
 
-#### KONSEP PESANAN DI TOKO BUNGA BATAM
-Jika anda ingin memesan papan bunga ucapan untuk acara pernikahan di kota batam, maka data yang akan anda kirimkan kepada kami berupa:
+#### KONSEP PESANAN DI TOKO BUNGA LUBUK PAKAM
+Jika anda ingin memesan papan bunga ucapan untuk acara pernikahan di kota lubuk pakam, maka data yang akan anda kirimkan kepada kami berupa:
 1. Nama kedua mempelai
 2. Data atau tulisan pengirimnya
 3. Alamat lengkap resepsi yang akan dituju
